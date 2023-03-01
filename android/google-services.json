@@ -37,6 +37,13 @@
             {
               "client_id": "153175417813-eqa2akl06ike61q168bjhi4pit1hq1gu.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "153175417813-4e7ubi0g6fae5euoujgkau3c9bsor5au.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diaree"
+              }
             }
           ]
         }
